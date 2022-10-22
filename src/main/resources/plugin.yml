@@ -1,0 +1,11 @@
+name: PotFFA
+version: '${project.version}'
+main: dev.syncfocus.potffa.PotFFA
+api-version: 1.16
+description: PotFFA Plugin For OP-FFA
+softdepend:
+  - PlaceholderAPI
+  - PVPStats
+  - HolographicDisplays
+commands:
+  reloadconfig:
